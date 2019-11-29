@@ -346,9 +346,9 @@
     "@types/yargs" "^13.0.0"
 
 "@nestjs/cli@^6.9.0":
-  version "6.12.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/cli/-/cli-6.12.3.tgz#39673c4c2a4b3ee510d497bce92ebb4235863ef0"
-  integrity sha512-hYrI6P3mNtfvRruGaoK2HQ0keJHRT4yYxrXxQr9WfDuSBfutZEeEMSLUO7FD0htUylpE4THFZSOk7gzBLPqZIQ==
+  version "6.12.4"
+  resolved "https://registry.yarnpkg.com/@nestjs/cli/-/cli-6.12.4.tgz#1d4c8c1046aa9229fa59f9cae122cd650b40533b"
+  integrity sha512-WX2wXNxnQZofajzo/wsHWld8hXi0xd08RrEsHxUVMm9AdIULakmQYT0vGq934qyE83UxhQQgEwtwNqWjzZeX8A==
   dependencies:
     "@angular-devkit/core" "8.3.19"
     "@angular-devkit/schematics" "8.3.19"
