@@ -24,7 +24,7 @@
     "@nestjs/core": "6.10.13",
     "@nestjs/graphql": "6.5.3",
     "@nestjs/platform-express": "6.10.13",
-    "apollo-server-express": "2.9.13",
+    "apollo-server-express": "2.9.15",
     "class-validator": "0.11.0",
     "dotenv": "8.2.0",
     "graphql": "14.5.8",
