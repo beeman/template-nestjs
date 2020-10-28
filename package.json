@@ -43,7 +43,7 @@
     "@types/jest": "24.9.1",
     "@types/node": "12.12.18",
     "@types/supertest": "2.0.9",
-    "husky": "4.2.1",
+    "husky": "4.3.0",
     "jest": "26.0.1",
     "lint-staged": "10.0.8",
     "prettier": "1.19.1",
